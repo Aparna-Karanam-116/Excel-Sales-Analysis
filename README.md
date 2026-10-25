@@ -29,7 +29,9 @@ Practice dataset sourced from the internet.
 Project File
 
 Excel workbook: "Excel_Sales_Analysis.xlsx"
-
+Sales Dashboard Preview
+![Excel Sales Dashboard]
+(Sales_Analysis_Dashboard.png)
 Key Insights
 -Total Revenue Generated: ₹750.18 Million across all markets and products.
 -Total Boxes Sold: 669,020 units, indicating strong product demand.
